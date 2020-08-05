@@ -1,0 +1,21 @@
+{
+"userlogins": [
+ {
+  "username": "abc@gmail.com",
+  "password": "Test@123"
+ },
+ {
+ "url": "https://login.wordpress.org/register?locale=en_US",
+  "username": "xyz@gmail.com",
+  "password": "Test@12"
+ },
+ {
+  "username": "pqr@gmail.com",
+  "password": "Test@123"
+ },
+ {
+  "username": "guru@gmail.com",
+  "password": "Test@123"
+ }
+]
+}
